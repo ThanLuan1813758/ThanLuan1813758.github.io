@@ -1,0 +1,75 @@
+  
+body{
+	background-image: url(as.png);
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	background-size: 100%;
+	
+}
+h1{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-style: italic;
+	color: rgb(6, 25, 131);
+	font-size: 60px;
+	text-align: center;
+}
+#banner img {
+	height: 1px;
+	width: 1px;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#menu_top{
+	background-color: rgb(36, 11, 97);
+	height: 50px;
+	align-items: unset;
+	background: rgba(5, 35, 172, 0.3)
+}
+	
+#menu_top ul{
+	margin: 0px;
+	padding: 0px;
+}
+
+#menu_top ul li{
+	list-style: none;
+	float: left;
+	height: 5px;
+}
+#menu_top ul li a {
+text-decoration: none;
+display: block;
+height: 50px;
+line-height: 50px;
+padding:0px 40px 0px 40px;
+color: rgba(229, 214, 233, 0.822);
+font-size: 30px;
+}
+
+#main #left {
+	width: 80px;
+	float: left;
+	min-height: 400px;
+}
+#main #left ul {
+	margin: 0px;
+	padding: 0px;
+}
+#main #left ul li {
+	list-style:  none;
+}
+
+#main #left ul li img{
+	height: 250px;
+	width: 200px;
+	float: left;
+	margin-right: 20px;
+}
+#main #left ul li h2 {
+	font-size: 20px;
+	color: rgba(13, 105, 243, 0.979);
+	font-style: italic;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

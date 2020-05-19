@@ -1,0 +1,36 @@
+h1 {
+    border-bottom: 2pt solid rgba(76, 0, 255, 0.836);
+    }
+    h2 {
+    color:red;
+    }
+    h2 a{color: red;}
+  h3 {
+    color:rgb(9, 255, 0);
+
+  }
+
+  p {
+    color: lightseagreen;
+    font-family: sans-serif;
+    margin-left: 100px;
+    
+  }
+  ol{
+      color: rgb(63, 178, 231);
+  }	
+  body {
+      background-image: url(as.png);
+      background-size: cover;
+      
+      background-position: center center;
+  }
+   ol li a {
+       color: rgb(250, 16, 250);
+   }
+   ol li a:hover {
+       
+       color: lightskyblue;
+
+   }
+  
