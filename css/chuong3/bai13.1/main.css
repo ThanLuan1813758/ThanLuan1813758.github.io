@@ -1,0 +1,35 @@
+body {
+background-color: #d2dc9d;
+}
+a { text-decoration: none; } /* bỏ dấu gạch chân */
+a:link { color: maroon; }
+a:visited { color: gray; }
+a:focus { color: maroon; background-color: #FFD9D9; }
+a:hover { color: maroon; background-color: #FFD9D9; }
+a:active { color: red; background-color: #FFD9D9; }
+a:active {
+background-color: #fff;
+color: #f0f;
+}
+h1 {
+color: #939;
+}
+h2 {
+color: #c60;
+}
+p::first-line {
+    color: red;
+  }
+p::first-letter {
+   color: red;
+}
+p::before {
+    content: "Đọc thêm: ";
+    color: red;
+    font-weight: bold;
+  }
+p::after {
+    content: "(Kết thúc)";
+    color: red;
+    font-weight: bold;
+}

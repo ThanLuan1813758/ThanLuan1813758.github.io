@@ -1,0 +1,14 @@
+body {
+background-image: url(giphy.gif);
+background-position: right center;
+}
+blockquote {
+width: 500px;
+margin: 0 auto;
+background-image: url(download.jpg);
+background-position: left center;
+background-color: white;
+background-repeat: no-repeat;
+padding: 2em;
+border: 4px dashed;
+}
